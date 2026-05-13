@@ -1,5 +1,4 @@
 # -Mafiree
-Managed Database Services &amp; Consulting ,24/7 DBA Support
 
 Mafiree is a trusted database management and IT infrastructure partner helping businesses manage, optimize, secure, and scale mission-critical databases with 24/7 expert support. Founded in 2008, Mafiree supports organizations in asia with specialized database administration, cloud management, monitoring, migrations, performance optimization, and disaster recovery services.
 
